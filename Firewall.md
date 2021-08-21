@@ -31,17 +31,15 @@ When your computer has firewall protection, everything that goes in and out of i
 Firewall use one or a combination of thefollowing three methods to control traffic flowing in and out of he netwwork.
 
 ## **Types of Firewall**
- ### 1. Packet Filtering Firewall 
 
-     Packet Filtering Firewall controls the network access by analyzing the outgoing and incoming packets. It lets a packet pass or block its way by comparing it with pre-established criteria like allowed IP addresses, packet type, port number, etc. Packet filtering technique is suitable for small networks but gets complex when implemented to larger networks
+ <b> 1. Packet Filtering Firewall </b>
+    - Packet Filtering Firewall controls the network access by analyzing the outgoing and incoming packets. It lets a packet pass or block its way by comparing it with pre-established criteria like allowed IP addresses, packet type, port number, etc. Packet filtering technique is suitable for small networks but gets complex when implemented to larger networks
 
-### 2.  Application/Proxy Firewall
+<b> 2.  Application/Proxy Firewall</b>
+    - A Application/Proxy firewall is a program that can help protect your network security by filtering messages in the application layer. It acts as a gateway or middle man between your internal network and external servers on the web. Also known as the gateway firewall, it is extremely safe in stateful and in-depth packet inspection technology to analyze incoming traffic.
 
-     A Application/Proxy firewall is a program that can help protect your network security by filtering messages in the application layer. It acts as a gateway or middle man between your internal network and external servers on the web. Also known as the gateway firewall, it is extremely safe in stateful and in-depth packet inspection technology to analyze incoming traffic.
-
-### 3. Hybrid Firewall
-
-     A hybrid firewall may have a packet filter attached to the application proxy firewall, or a circuit gateway connected to the application proxy firewall. A firewall is usually the first line of defense against cyber attacks. Unlike other firewalls, however, Network Box uses the Hybrid Firewall to effectively protect your servers and operating systems from malicious probes and unauthorized access.
+<b> 3. Hybrid Firewall</b>
+     - A hybrid firewall may have a packet filter attached to the application proxy firewall, or a circuit gateway connected to the application proxy firewall. A firewall is usually the first line of defense against cyber attacks. Unlike other firewalls, however, Network Box uses the Hybrid Firewall to effectively protect your servers and operating systems from malicious probes and unauthorized access.
 
 ## **Conclusions**
 
